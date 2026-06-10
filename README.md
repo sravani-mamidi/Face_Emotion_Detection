@@ -1,6 +1,6 @@
 # 😀 Emotion Detection Dashboard 
 
-An AI-powered **Facial Emotion Detection Dashboard** developed by using **HTML, CSS, JavaScript, and Face API.js**.  
+An AI-powered **Facial Emotion Detection Dashboard** developed using **HTML, CSS, JavaScript, and Face API.js**.  
 This project performs real-time facial emotion analysis through webcam input and dynamically displays detected emotions with confidence scores.
 
 ---
@@ -62,7 +62,7 @@ This project performs real-time facial emotion analysis through webcam input and
 ### 1️⃣ Clone Repository
 
 ```bash
-git clonegit clone https://github.com/sravani-mamidi/Face_Emotion_Detection.git
+git clone https://github.com/sravani-mamidi/Face_Emotion_Detection.git
 ```
 
 ### 2️⃣ Navigate to Project Folder
@@ -101,7 +101,7 @@ Open `index.html` using:
 
 ## 💡 Learning Outcomes
 
-Through this project, **Sravani mamidi** gained practical experience in:
+This project demonstrates practical concepts in:
 - Real-time face detection
 - AI-based emotion recognition
 - Frontend dashboard development
@@ -109,3 +109,4 @@ Through this project, **Sravani mamidi** gained practical experience in:
 - Browser-based machine learning integration
 
 ---
+
