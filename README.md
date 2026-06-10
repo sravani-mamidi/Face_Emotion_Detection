@@ -1,4 +1,4 @@
-# 😀 Emotion Detection Dashboard | By Nisha Samreen
+# 😀 Emotion Detection Dashboard 
 
 An AI-powered **Facial Emotion Detection Dashboard** developed by **Nisha Samreen** using **HTML, CSS, JavaScript, and Face API.js**.  
 This project performs real-time facial emotion analysis through webcam input and dynamically displays detected emotions with confidence scores.
@@ -62,8 +62,7 @@ This project performs real-time facial emotion analysis through webcam input and
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/nishasamreen/nishasamreen-Face_Emotion_detection_project.git
-```
+git clone https://github.com/sravani-mamidi/Face_Emotion_Detection
 
 ### 2️⃣ Navigate to Project Folder
 
@@ -101,7 +100,7 @@ Open `index.html` using:
 
 ## 💡 Learning Outcomes
 
-Through this project, **Nisha Samreen** gained practical experience in:
+Through this project, **Sravani mamidi** gained practical experience in:
 - Real-time face detection
 - AI-based emotion recognition
 - Frontend dashboard development
@@ -109,9 +108,3 @@ Through this project, **Nisha Samreen** gained practical experience in:
 - Browser-based machine learning integration
 
 ---
-
-# 👩‍💻 Developed By
-
-## Nisha Samreen
-
-AI & Software Development Enthusiast passionate about building intelligent and interactive real-world applications.
