@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emotion Detection Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="face-api.min.js"></script>
+  <script defer src="script.js"></script>
+</head>
+
+<body>
+  <div class="dashboard">
+    <!-- Left side: Video -->
+    <div class="camera-section">
+      <h2>Live Camera</h2>
+      <div class="video-container">
+        <video id="video" width="640" height="480" autoplay muted></video>
+        <canvas id="overlay"></canvas>
+      </div>
+    </div>
+
+    <!-- Right side: Emotion dashboard -->
+    <div class="info-panel">
+      <h2>Real-Time Emotions</h2>
+      <table id="emotion-table">
+        <tr><th>Emotion</th><th>Confidence</th></tr>
+        <tr><td>😊 Happy</td><td id="happy">0.00</td></tr>
+        <tr><td>😢 Sad</td><td id="sad">0.00</td></tr>
+        <tr><td>😡 Angry</td><td id="angry">0.00</td></tr>
+        <tr><td>😲 Surprised</td><td id="surprised">0.00</td></tr>
+        <tr><td>😐 Neutral</td><td id="neutral">0.00</td></tr>
+      </table>
+      <h3 id="mood-status">Current Mood: 😐 Neutral</h3>
+    </div>
+  </div>
+</body>
+</html>
